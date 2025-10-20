@@ -25,7 +25,7 @@ By completing this project, I gained hands-on experience with cloud storage, buc
 - Default permissions were kept safe initially  
 
 **Screenshot:**  
-![S3 Bucket](Assets/S3%Bucket.png)
+![S3 Bucket](Assets/S3%20Bucket.png)
 
 ---
 
@@ -64,11 +64,12 @@ By completing this project, I gained hands-on experience with cloud storage, buc
   ]
 }
 ```
-![Bucket Policy](Assets/Bucket%Policy.png)
+**Screenshot:**  
+![Bucket Policy](Assets/Bucket%20Policy.png)
 
 ### **Step 4: Verify Public Access
 Copied the Object URL:
 https://elevatelab-s3-inter1.s3.us-east-1.amazonaws.com/istockphoto-2149530993-612x612.jpg
 Opened URL in browser → file loaded successfully
 Screenshot:
-![S3 Output](Assets/S3%Output.png)
+![S3 Output](Assets/S3%20Output.png)
