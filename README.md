@@ -37,6 +37,7 @@ By completing this project, I gained hands-on experience with cloud storage, buc
 
 **Screenshot:**  
 ![Object](Assets/Object.png)
+![Properties](Assets/Properties.png)
 
 ---
 
