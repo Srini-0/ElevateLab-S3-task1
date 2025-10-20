@@ -25,13 +25,13 @@ By completing this project, I gained hands-on experience with cloud storage, buc
 - Default permissions were kept safe initially  
 
 **Screenshot:**  
-![S3 Bucket](Assets/S3 Bucket.png)
+![S3 Bucket](Assets/S3%Bucket.png)
 
 ---
 
 ### **Step 2: Upload File to the Bucket**
 - Opened the bucket → Click **Upload → Add files**  
-- Selected file: `istockphoto-2149530993-612x612.jpg`  
+- Selected file: `pexels.jpg`  
 - Clicked **Upload**  
 - File appeared under **Objects** tab  
 
