@@ -68,7 +68,7 @@ By completing this project, I gained hands-on experience with cloud storage, buc
 **Screenshot:**  
 ![Bucket Policy](Assets/Bucket%20Policy.png)
 
-### **Step 4: Verify Public Access
+### **Step 4: Verify Public Access**
 Copied the Object URL:
 https://elevatelab-s3-inter1.s3.us-east-1.amazonaws.com/pexels.jpg
 Opened URL in browser → file loaded successfully
